@@ -31,3 +31,4 @@ function removeLastCat() {
 function removeFirstCat() {
   return cats.slice(1)
 }
+//This lab was done in phase one
